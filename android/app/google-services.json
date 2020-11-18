@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349693820605",
+    "firebase_url": "https://keep-18fa9.firebaseio.com",
+    "project_id": "keep-18fa9",
+    "storage_bucket": "keep-18fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349693820605:android:ba3d04d35147fdcca341d4",
+        "android_client_info": {
+          "package_name": "com.example.keep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349693820605-ippl3k7aoisn87qepjtce0lm12o88nof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keep",
+            "certificate_hash": "9077e7dd8348ac507ae77bba26258ce3fcd76475"
+          }
+        },
+        {
+          "client_id": "349693820605-6o4h6oed59hu7i5id2obt61515tsevgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4d2h4jP2gOqcXRew88l5K3LAXtbNNS6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349693820605-6o4h6oed59hu7i5id2obt61515tsevgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
